@@ -9,7 +9,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zeus097"><img src="https://github-readme-stats.vercel.app/api?username=Zeus097&show_icons=true&hide=&title_color=3382ed&text_color=10b981&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zeus097's GitHub stats" /></a>
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
