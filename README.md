@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vasil Dimitrov ======================================================================================================================================  Software Engineering student ----------------------------  I enjoy coding!  * 🌍  I'm based in Bulgaria * ✉️  You can contact me at [wollfstein@abv.bg](mailto:wollfstein@abv.bg) * 🧠  I'm learning Python in SoftUni * 🤝  I'm open to collaborating on projects for beginners on Python * ⚡  Debugging is like being the detective in a crime movie where you are also the murderer.
 
-<!--
-**Zeus097/Zeus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills  
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.facebook.com/vasko.dimitrov.773" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Zeus097" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Zeus097"><img src="https://github-readme-stats.vercel.app/api?username=Zeus097&show_icons=true&hide=&title_color=3382ed&text_color=10b981&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zeus097's GitHub stats" /></a>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
