@@ -7,6 +7,11 @@ Software Engineering student with Python
 * 🤝  I'm open to collaborating on projects for beginners on Python
 * ⚡  Debugging is like being the detective in a crime movie where you are also the murderer.
 
+# 
+
+![139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866](https://github.com/user-attachments/assets/dea05729-95e9-4c1e-ac9f-0cf62fdbf4a9)
+
+
 ### Skills  
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p> 
