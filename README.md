@@ -18,3 +18,17 @@ Socials  <p align="left"> <a href="https://www.facebook.com/vasko.dimitrov.773/"
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zeus097"><img src="https://github-readme-stats.vercel.app/api?username=Zeus097&show_icons=true&hide=&title_color=3382ed&text_color=10b981&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zeus097's GitHub stats" /></a>
+
+
+
+### SoftUni Sertificats:
+
+# ![01_Programming Basics with Python](https://github.com/user-attachments/assets/27af961c-3a83-4911-908b-67c85ef0a221)
+
+
+# ![02_Programming Fundamentals with Python](https://github.com/user-attachments/assets/b2d4c1b9-c306-461e-88cf-0f0ce473878a)
+
+
+# ![03_Python Advanced Certificate](https://github.com/user-attachments/assets/a09c0f8f-6d1a-4585-88e3-ed1c3999f8ca)
+
+
