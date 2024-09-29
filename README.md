@@ -5,7 +5,7 @@ Software Engineering student with Python
 * ✉️  You can contact me at [wollfstein@abv.bg](mailto:wollfstein@abv.bg)
 * 🧠  I'm learning Python, in SoftUni. In addition to my program, I study HTML&CSS as part of my training as a software engineer.
 * 🤝  I'm open to collaborating on projects for beginners on Python
-* ⚡  Debugging is like being the detective in a crime movie where you are also the murderer.
+* ⚡  Debugging is like being the detective in a crime movie where you are also the murderer
 
 # 
 
