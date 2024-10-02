@@ -1,6 +1,6 @@
 Hi I'm Vasil Dimitrov
 
-Software Engineering student with Python.....
+Software Engineering student with Python......
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [wollfstein@abv.bg](mailto:wollfstein@abv.bg)
 * 🧠  I'm learning Python, in SoftUni. In addition to my program, I study HTML&CSS as part of my training as a software engineer
