@@ -1,4 +1,4 @@
-Hi I'm Vasil Dimitrov.
+Hi I'm Vasil Dimitrov..
 
 Software Engineering student with Python
 * 🌍  I'm based in Bulgaria
