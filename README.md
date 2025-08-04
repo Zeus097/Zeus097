@@ -21,47 +21,49 @@ Software Engineering student with Python
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> </p> 
 
 
+<br></br>
 
 <p align="center">
   
- <a href="Certificates/01_Programming Basics with Python.png" target="_blank">
-    <img src="Certificates/01_Programming Basics with Python.png" alt="Programming Basics with Python" width="150"/>
+  <a href="Certificates/01_Programming Basics with Python.png" target="_blank">
+    <img src="Certificates/01_Programming Basics with Python.png" alt="Programming Basics with Python" width="200"/>
   </a>
   
   <a href="Certificates/02_Programming Fundamentals with Python.png" target="_blank">
-    <img src="Certificates/02_Programming Fundamentals with Python.png" alt="Programming Fundamentals with Python" width="150"/>
+    <img src="Certificates/02_Programming Fundamentals with Python.png" alt="Programming Fundamentals with Python" width="200"/>
   </a>
   
   <a href="Certificates/03_Python Advanced Certificate.png" target="_blank">
-    <img src="Certificates/03_Python Advanced Certificate.png" alt="Python Advanced Certificate" width="150"/>
+    <img src="Certificates/03_Python Advanced Certificate.png" alt="Python Advanced Certificate" width="200"/>
   </a>
 
   <a href="Certificates/04_Python OOP Certificate.jpeg" target="_blank">
-    <img src="Certificates/04_Python OOP Certificate.jpeg" alt="Python OOP Certificate" width="150"/>
+    <img src="Certificates/04_Python OOP Certificate.jpeg" alt="Python OOP Certificate" width="200"/>
   </a>
 
   <a href="Certificates/05-JS Front-End-HTML&CSS.png" target="_blank">
-    <img src="Certificates/05-JS Front-End-HTML&CSS.png" alt="JS Front-End-HTML&CSS" width="150"/>
+    <img src="Certificates/05-JS Front-End-HTML&CSS.png" alt="JS Front-End-HTML&CSS" width="200"/>
   </a>
 
   <a href="Certificates/06-JS Front-End.png" target="_blank">
-    <img src="Certificates/06-JS Front-End.png" alt="JS Front-End" width="150"/>
+    <img src="Certificates/06-JS Front-End.png" alt="JS Front-End" width="200"/>
   </a>
 
   <a href="Certificates/07_Python_DB.png" target="_blank">
-    <img src="Certificates/07_Python_DB.png" alt="Python_DB" width="150"/>
+    <img src="Certificates/07_Python_DB.png" alt="Python_DB" width="200"/>
   </a>
 
   <a href="Certificates/08_Python_DB_ORM.png" target="_blank">
-    <img src="Certificates/08_Python_DB_ORM.png" alt="Python_DB_ORM" width="150"/>
+    <img src="Certificates/08_Python_DB_ORM.png" alt="Python_DB_ORM" width="200"/>
   </a>
 
   <a href="Certificates/IT_Carreer_Boosting.png" target="_blank">
-    <img src="Certificates/IT_Carreer_Boosting.png" alt="Carreer_Boosting" width="150"/>
+    <img src="Certificates/IT_Carreer_Boosting.png" alt="Carreer_Boosting" width="200"/>
   </a>
   
 </p>
 
+<br></br>
 
 
  Badges
