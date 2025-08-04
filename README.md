@@ -22,6 +22,46 @@ Software Engineering student with Python
 
 
 
+<p align="center">
+  
+ <a href="Certificates/01_Programming Basics with Python.png" target="_blank">
+    <img src="Certificates/01_Programming Basics with Python.png" alt="Programming Basics with Python" width="150"/>
+  </a>
+  
+  <a href="Certificates/02_Programming Fundamentals with Python.png" target="_blank">
+    <img src="Certificates/02_Programming Fundamentals with Python.png" alt="Programming Fundamentals with Python" width="150"/>
+  </a>
+  
+  <a href="Certificates/03_Python Advanced Certificate.png" target="_blank">
+    <img src="Certificates/03_Python Advanced Certificate.png" alt="Python Advanced Certificate" width="150"/>
+  </a>
+
+  <a href="Certificates/04_Python OOP Certificate.jpeg" target="_blank">
+    <img src="Certificates/04_Python OOP Certificate.jpeg" alt="Python OOP Certificate" width="150"/>
+  </a>
+
+  <a href="Certificates/05-JS Front-End-HTML&CSS.png" target="_blank">
+    <img src="Certificates/05-JS Front-End-HTML&CSS.png" alt="JS Front-End-HTML&CSS" width="150"/>
+  </a>
+
+  <a href="Certificates/06-JS Front-End.png" target="_blank">
+    <img src="Certificates/06-JS Front-End.png" alt="JS Front-End" width="150"/>
+  </a>
+
+  <a href="Certificates/07_Python_DB.png" target="_blank">
+    <img src="Certificates/07_Python_DB.png" alt="Python_DB" width="150"/>
+  </a>
+
+  <a href="Certificates/08_Python_DB_ORM.png" target="_blank">
+    <img src="Certificates/08_Python_DB_ORM.png" alt="Python_DB_ORM" width="150"/>
+  </a>
+
+  <a href="Certificates/IT_Carreer_Boosting.png" target="_blank">
+    <img src="Certificates/IT_Carreer_Boosting.png" alt="Carreer_Boosting" width="150"/>
+  </a>
+  
+</p>
+
 
 
  Badges
@@ -29,6 +69,7 @@ Software Engineering student with Python
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zeus097"><img src="https://github-readme-stats.vercel.app/api?username=Zeus097&show_icons=true&hide=&title_color=3382ed&text_color=10b981&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zeus097's GitHub stats" /></a>
+
 
 
 
