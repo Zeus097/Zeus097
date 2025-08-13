@@ -60,6 +60,10 @@ Software Engineering student with Python
   <a href="Certificates/IT_Carreer_Boosting.png" target="_blank">
     <img src="Certificates/IT_Carreer_Boosting.png" alt="Carreer_Boosting" width="200"/>
   </a>
+
+  <a href="Certificates/django_advanced.png" target="_blank">
+    <img src="Certificates/django_advanced.png" alt="django_advanced" width="200"/>
+  </a>
   
 </p>
 
